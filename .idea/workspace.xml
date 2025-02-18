@@ -4,206 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fcc8515-0162-4569-973c-1a10020be7b2" name="Changes" comment="first version">
-      <change beforePath="$PROJECT_DIR$/.idea/BulletHellGameProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BulletHellGameProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/0x10c.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/C418 - 0x10c - 02 0.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/Fire.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/attack/claw.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/attack/fireball.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/attack/slash.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/collide.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/death.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/game_fon.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/hit.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/lose.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/main_menu_fon.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/sound_effect.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/sword.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/transition.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio/win.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/bullet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/debug.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/particles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/support.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/tile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/weapon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/bug_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/clown_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/demondoor_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/left/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/bug/right/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/attack/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/attack/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/move/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/left/move/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/attack/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/attack/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/move/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/clown/right/move/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/idle/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/idle/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/idle/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/left/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/idle/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/idle/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/idle/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/demondoor/right/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/attack/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/idle/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/idle/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/idle/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/idle/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/left/move/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/attack/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/attack/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/attack/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/attack/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/attack/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/idle/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/idle/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/idle/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/idle/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/idle/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/move/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/move/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/move/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/move/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/ghost/right/move/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/homework/homework-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/homework/homework-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/homework/homework-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/enemies/homework/homework-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/floor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/ghost_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/joystix.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/magic_sphere.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/down/down_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/down/down_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/down/down_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/down/down_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/down_attack/attack_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/down_idle/idle_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/left/left_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/left/left_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/left/left_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/left/left_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/left_attack/attack_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/left_idle/idle_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/right/right_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/right/right_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/right/right_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/right/right_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/right_attack/attack_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/right_idle/idle_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/up/up_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/up/up_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/up/up_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/up/up_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/up_attack/attack_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player/up_idle/idle_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/player_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/temp_wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/axe/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/axe/full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/axe/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/axe/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/axe/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/lance/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/lance/full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/lance/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/lance/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/lance/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/rapier/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/rapier/full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/rapier/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/rapier/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/rapier/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sai/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sai/full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sai/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sai/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sai/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sword/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sword/full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sword/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sword/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/weapons/sword/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saves/save.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="6fcc8515-0162-4569-973c-1a10020be7b2" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -528,11 +329,29 @@
       <option name="project" value="LOCAL" />
       <updated>1739883608752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="final">
+      <option name="closed" value="true" />
+      <created>1739889495531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739889495531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1739889526383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739889526383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first version" />
-    <option name="LAST_COMMIT_MESSAGE" value="first version" />
+    <MESSAGE value="final" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
