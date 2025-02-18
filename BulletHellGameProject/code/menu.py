@@ -56,7 +56,7 @@ class Menu:
 
         self.how += 1
 
-        if self.win or self.win == False:
+        if self.win:
             splash_text = self.get_pulsing_text()
             splash_rect = splash_text.get_rect(center=(self.main_width * 1350 / 1920, self.main_height * 380 / 1080))
 
